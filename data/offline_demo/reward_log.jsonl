@@ -1,0 +1,6 @@
+{"interaction_id": "62e5183b", "question": "What is RAG?", "agent": "sentence_window_rag", "category": "factual", "top_k": 3, "num_sources": 3, "timestamp": 1783353882.8876724}
+{"interaction_id": "62e5183b", "type": "feedback", "agent": "sentence_window_rag", "category": "factual", "question": "What is RAG?", "reward": 0.9, "timestamp": 1783353882.8899343}
+{"interaction_id": "14e1c478", "question": "How does UCB1 balance exploration and exploitation?", "agent": "parent_child_rag", "category": "factual", "top_k": 3, "num_sources": 0, "timestamp": 1783353882.8913457}
+{"interaction_id": "14e1c478", "type": "feedback", "agent": "parent_child_rag", "category": "factual", "question": "How does UCB1 balance exploration and exploitation?", "reward": 0.9, "timestamp": 1783353882.8931324}
+{"interaction_id": "36a3e101", "question": "Compare dense and sparse retrieval", "agent": "naive_rag", "category": "analytical", "top_k": 3, "num_sources": 3, "timestamp": 1783353882.894754}
+{"interaction_id": "36a3e101", "type": "feedback", "agent": "naive_rag", "category": "analytical", "question": "Compare dense and sparse retrieval", "reward": 0.9, "timestamp": 1783353882.8964183}

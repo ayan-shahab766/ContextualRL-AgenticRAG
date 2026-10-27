@@ -1,0 +1,32 @@
+{
+  "summary": {
+    "agents": [
+      "naive_rag",
+      "agentic_rag",
+      "hybrid_rag"
+    ],
+    "top_k": 5,
+    "num_questions": 2,
+    "per_agent": {}
+  },
+  "results": [
+    {
+      "id": "demo_1",
+      "question": "Give a concise summary of the main topics covered in the uploaded documents.",
+      "answers": {
+        "naive_rag": "[fake-llm] Answer to 'Give a concise summary of the main topics covered in the uploaded documents.' grounded in context: Context:   Question: Give a concise summary of the main topics covered in the uploaded documents.",
+        "agentic_rag": "[fake-llm] Answer to 'Give a concise summary of the main topics covered in the uploaded documents.' grounded in context: Context:   Question: Give a concise summary of the main topics covered in the uploaded documents.",
+        "hybrid_rag": "[fake-llm] Answer to 'Give a concise summary of the main topics covered in the uploaded documents.' grounded in context: Context:   Question: Give a concise summary of the main topics covered in the uploaded documents."
+      }
+    },
+    {
+      "id": "demo_2",
+      "question": "List three key risks mentioned in the documents and explain why they matter.",
+      "answers": {
+        "naive_rag": "[fake-llm] Answer to 'List three key risks mentioned in the documents and explain why they matter.' grounded in context: Context:   Question: List three key risks mentioned in the documents and explain why they matter.",
+        "agentic_rag": "[fake-llm] Answer to 'List three key risks mentioned in the documents and explain why they matter.' grounded in context: Context:   Question: List three key risks mentioned in the documents and explain why they matter.",
+        "hybrid_rag": "[fake-llm] Answer to 'List three key risks mentioned in the documents and explain why they matter.' grounded in context: Context:   Question: List three key risks mentioned in the documents and explain why they matter."
+      }
+    }
+  ]
+}

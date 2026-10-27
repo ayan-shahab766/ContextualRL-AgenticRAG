@@ -1,0 +1,278 @@
+{
+  "factual": {
+    "naive_rag": {
+      "pulls": 2,
+      "total_reward": 1.4
+    },
+    "sentence_window_rag": {
+      "pulls": 2,
+      "total_reward": 1.4
+    },
+    "parent_child_rag": {
+      "pulls": 2,
+      "total_reward": 1.4
+    },
+    "agentic_rag": {
+      "pulls": 1,
+      "total_reward": 0.5
+    },
+    "multimodal_rag": {
+      "pulls": 1,
+      "total_reward": 0.5
+    },
+    "table_rag": {
+      "pulls": 1,
+      "total_reward": 0.5
+    },
+    "graph_rag": {
+      "pulls": 1,
+      "total_reward": 0.5
+    },
+    "hybrid_rag": {
+      "pulls": 2,
+      "total_reward": 1.4
+    },
+    "hyde_rag": {
+      "pulls": 1,
+      "total_reward": 0.5
+    },
+    "corrective_rag": {
+      "pulls": 1,
+      "total_reward": 0.5
+    },
+    "lora_rag": {
+      "pulls": 1,
+      "total_reward": 0.5
+    }
+  },
+  "analytical": {
+    "naive_rag": {
+      "pulls": 2,
+      "total_reward": 1.4
+    },
+    "sentence_window_rag": {
+      "pulls": 1,
+      "total_reward": 0.5
+    },
+    "parent_child_rag": {
+      "pulls": 1,
+      "total_reward": 0.5
+    },
+    "agentic_rag": {
+      "pulls": 1,
+      "total_reward": 0.5
+    },
+    "multimodal_rag": {
+      "pulls": 1,
+      "total_reward": 0.5
+    },
+    "table_rag": {
+      "pulls": 3,
+      "total_reward": 2.4
+    },
+    "graph_rag": {
+      "pulls": 1,
+      "total_reward": 0.5
+    },
+    "hybrid_rag": {
+      "pulls": 1,
+      "total_reward": 0.5
+    },
+    "hyde_rag": {
+      "pulls": 1,
+      "total_reward": 0.5
+    },
+    "corrective_rag": {
+      "pulls": 1,
+      "total_reward": 0.5
+    },
+    "lora_rag": {
+      "pulls": 1,
+      "total_reward": 0.5
+    }
+  },
+  "relational": {
+    "naive_rag": {
+      "pulls": 1,
+      "total_reward": 0.5
+    },
+    "sentence_window_rag": {
+      "pulls": 1,
+      "total_reward": 0.5
+    },
+    "parent_child_rag": {
+      "pulls": 1,
+      "total_reward": 0.5
+    },
+    "agentic_rag": {
+      "pulls": 1,
+      "total_reward": 0.5
+    },
+    "multimodal_rag": {
+      "pulls": 1,
+      "total_reward": 0.5
+    },
+    "table_rag": {
+      "pulls": 1,
+      "total_reward": 0.5
+    },
+    "graph_rag": {
+      "pulls": 3,
+      "total_reward": 2.4
+    },
+    "hybrid_rag": {
+      "pulls": 1,
+      "total_reward": 0.5
+    },
+    "hyde_rag": {
+      "pulls": 1,
+      "total_reward": 0.5
+    },
+    "corrective_rag": {
+      "pulls": 1,
+      "total_reward": 0.5
+    },
+    "lora_rag": {
+      "pulls": 1,
+      "total_reward": 0.5
+    }
+  },
+  "procedural": {
+    "naive_rag": {
+      "pulls": 1,
+      "total_reward": 0.5
+    },
+    "sentence_window_rag": {
+      "pulls": 1,
+      "total_reward": 0.5
+    },
+    "parent_child_rag": {
+      "pulls": 2,
+      "total_reward": 1.4
+    },
+    "agentic_rag": {
+      "pulls": 3,
+      "total_reward": 2.4
+    },
+    "multimodal_rag": {
+      "pulls": 1,
+      "total_reward": 0.5
+    },
+    "table_rag": {
+      "pulls": 1,
+      "total_reward": 0.5
+    },
+    "graph_rag": {
+      "pulls": 1,
+      "total_reward": 0.5
+    },
+    "hybrid_rag": {
+      "pulls": 1,
+      "total_reward": 0.5
+    },
+    "hyde_rag": {
+      "pulls": 1,
+      "total_reward": 0.5
+    },
+    "corrective_rag": {
+      "pulls": 1,
+      "total_reward": 0.5
+    },
+    "lora_rag": {
+      "pulls": 1,
+      "total_reward": 0.5
+    }
+  },
+  "vague": {
+    "naive_rag": {
+      "pulls": 1,
+      "total_reward": 0.5
+    },
+    "sentence_window_rag": {
+      "pulls": 1,
+      "total_reward": 0.5
+    },
+    "parent_child_rag": {
+      "pulls": 1,
+      "total_reward": 0.5
+    },
+    "agentic_rag": {
+      "pulls": 1,
+      "total_reward": 0.5
+    },
+    "multimodal_rag": {
+      "pulls": 1,
+      "total_reward": 0.5
+    },
+    "table_rag": {
+      "pulls": 1,
+      "total_reward": 0.5
+    },
+    "graph_rag": {
+      "pulls": 1,
+      "total_reward": 0.5
+    },
+    "hybrid_rag": {
+      "pulls": 1,
+      "total_reward": 0.5
+    },
+    "hyde_rag": {
+      "pulls": 3,
+      "total_reward": 2.1
+    },
+    "corrective_rag": {
+      "pulls": 1,
+      "total_reward": 0.5
+    },
+    "lora_rag": {
+      "pulls": 1,
+      "total_reward": 0.5
+    }
+  },
+  "visual": {
+    "naive_rag": {
+      "pulls": 1,
+      "total_reward": 0.5
+    },
+    "sentence_window_rag": {
+      "pulls": 1,
+      "total_reward": 0.5
+    },
+    "parent_child_rag": {
+      "pulls": 1,
+      "total_reward": 0.5
+    },
+    "agentic_rag": {
+      "pulls": 1,
+      "total_reward": 0.5
+    },
+    "multimodal_rag": {
+      "pulls": 3,
+      "total_reward": 2.4
+    },
+    "table_rag": {
+      "pulls": 1,
+      "total_reward": 0.5
+    },
+    "graph_rag": {
+      "pulls": 1,
+      "total_reward": 0.5
+    },
+    "hybrid_rag": {
+      "pulls": 1,
+      "total_reward": 0.5
+    },
+    "hyde_rag": {
+      "pulls": 1,
+      "total_reward": 0.5
+    },
+    "corrective_rag": {
+      "pulls": 1,
+      "total_reward": 0.5
+    },
+    "lora_rag": {
+      "pulls": 1,
+      "total_reward": 0.5
+    }
+  }
+}
